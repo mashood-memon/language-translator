@@ -13,4 +13,4 @@ A simple and interactive translation application built using JavaScript. This ap
 
  Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/translation-app.git
+   git clone https://github.com/mashood-memon/language-translator.git
